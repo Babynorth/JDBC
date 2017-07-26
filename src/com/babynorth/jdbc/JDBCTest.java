@@ -5,6 +5,6 @@ package com.babynorth.jdbc;
  */
 public class JDBCTest {
     public static void main(String[] args) {
-        System.out.println();
+        System.out.println("tt");
     }
 }
